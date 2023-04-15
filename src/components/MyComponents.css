@@ -1,0 +1,12 @@
+h1 {
+    font-size: 3.0rem;
+    color: blueviolet;
+}
+p {
+    color: greenyellow;
+    background: black;
+}
+.my-comp-paragraph {
+    color: black;
+    background: gold;
+}
